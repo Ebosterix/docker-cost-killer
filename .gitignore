@@ -1,0 +1,11 @@
+# dependencies
+[STRIPPED 65 bytes]
+
+# logs
+npm-debug.log*
+
+# OS
+.DS_Store
+
+# env
+.env
