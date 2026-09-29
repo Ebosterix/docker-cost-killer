@@ -1,11 +1,7 @@
-# dependencies
-[STRIPPED 65 bytes]
-
-# logs
+node_modules
+client/node_modules
+server/node_modules
+client/dist
 npm-debug.log*
-
-# OS
 .DS_Store
-
-# env
 .env
